@@ -1,1 +1,2 @@
 # Spotify-playlist
+chrome://settings
